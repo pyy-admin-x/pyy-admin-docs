@@ -6,7 +6,7 @@ PYY-ADMIN 后台管理系统
 
 | 后端源码 | 前端源码 |
 | ------ | ------ |
-| <https://github.com/pyy-admin-x/pyy-admin/tree/master/pyy-admin> | <https://github.com/pyy-admin-x/pyy-admin/tree/master/pyy-admin-ui> |
+| <https://github.com/pyy-admin-x/pyy-admin.git> | <https://github.com/pyy-admin-x/pyy-admin-ui.git> |
 
 
 ## 反馈交流
