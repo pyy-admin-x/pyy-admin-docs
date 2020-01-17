@@ -4,7 +4,7 @@ heroImage: /img/logo.png
 heroText: PYY-ADMIN-X
 tagline: 使用 PYY-ADMIN-X 快速搭建 web 工程
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /指南/
 features:
 - title: 技术栈
   details: 基于Spring Boot 2.1.8 、Spring Cloud Greenwich.SR3、Spring Cloud Alibaba、JWT 、 Redis 、Vue的前后端分离的的RBAC权限管理系统
